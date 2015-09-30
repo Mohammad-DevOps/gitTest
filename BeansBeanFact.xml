@@ -9,4 +9,5 @@
        <property name="message" value="Hello World!"/>
    </bean>
 <!-- random commments -->
+<!-- random commments2 -->
 </beans>
